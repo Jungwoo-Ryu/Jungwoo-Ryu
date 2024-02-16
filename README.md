@@ -29,5 +29,6 @@ I'm a passionate learner and a researcher with hands-on experience in image debl
 
 [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Jungwoo-Ryu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jungwoo-ryu-6375a6211/)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-13200f1f8ff7455c9913715ef4e784de)
 
 
