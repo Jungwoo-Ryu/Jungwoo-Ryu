@@ -2,6 +2,15 @@
 
 I'm a passionate learner and a researcher with hands-on experience in image deblurring through Matlab, gained during my tenure at the University of Wisconsin. Currently diving deep into the world of web development, honing my skills and exploring new technologies.
 
+## 🚀 Organization Projects
+
+### [Project 1: My Class Planner](https://github.com/k-mcp)
+- My Class Planner 는 대학생들이 수강신청 할 때 시간표 충돌이 발생하지 않는 모든 가능한 시간표를 보여주는 웹 애플리케이션입니다.
+- 개인이 듣고싶은 강의 정보를 추가하여 다양한 시간표를 생성 후 제공해 줍니다.
+- 게시판/댓글 기능을 통해 다른 유저와 의사소통이 가능합니다.
+- AI chat 시스템으로 유저가 사용하는데에 불편함을 느낄 때 도움 받을 수 있습니다.
+
+
 ## 🚀 TECHS & TOOLS
 
 🔥 SKILLS ⬇️
