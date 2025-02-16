@@ -1,6 +1,39 @@
-## 🙋🏻‍♂️ About me
+<div align=center> 
+  <p>
 
-I'm a passionate learner and a researcher with hands-on experience in image deblurring through Matlab, gained during my tenure at the University of Wisconsin. Currently diving deep into the world of web development, honing my skills and exploring new technologies.
+  <a href="mailto:jryu1521@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jryu1521@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+  
+</p>
+<p>
+  Hello I am a new developer specializing in machine learning.<br/>
+  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+</p>
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jungwoo-Ryu&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+ 
+
+
+
+<h3 align="center"> Tech Stack </h3>
+<p align="center">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+    <br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <br>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+</p>
+
+</div>
+</div>
 
 ## 🚀 Organization Projects
 
@@ -11,32 +44,8 @@ I'm a passionate learner and a researcher with hands-on experience in image debl
 - AI chat 시스템으로 유저가 사용하는데에 불편함을 느낄 때 도움 받을 수 있습니다.
 
 
-## 🚀 TECHS & TOOLS
-
-🔥 SKILLS ⬇️
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=flat-square&logo=mathworks&logoColor=white&color=green)
-
-🔥 FRAMEWORK ⬇️
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-
-🔥 DATABASE ⬇️
-
-![MySQL](https://img.shields.io/badge/MySQL-white?style=flat-square&logo=mysql)
-
-🔥 TOOLS ⬇️
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Notion](https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white)
-
 ## 📬 Find me at
 
-[![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Jungwoo-Ryu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jungwoo-ryu-6375a6211/)
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Portfolio-13200f1f8ff7455c9913715ef4e784de)
 
