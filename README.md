@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/jungwoo-ryu-6375a6211">
     <img src="https://img.shields.io/badge/LinkedIn-Jungwoo%20Ryu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.notion.so/Portfolio-13200f1f8ff7455c9913715ef4e784de">
+  <a href="https://jungwoo-ryu.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   </a>
 </p>
