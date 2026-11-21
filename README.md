@@ -1,24 +1,17 @@
+ 
 <div align="center">
 
 # Jungwoo (Ken) Ryu
 
-### Aspiring AX / AI Engineer | CS @ UW–Madison | SWE Intern @ LG Innotek
+### AI Engineer | LLM Applications | RAG Systems | Backend Engineering
 
-<p>
-  I build AI-powered and backend-driven products that improve workflows, retrieval quality, and product intelligence.
-</p>
+**Computer Science · University of Wisconsin–Madison (2026)**
 
-<p>
-  <a href="mailto:jryu1521@gmail.com">
-    <img src="https://img.shields.io/badge/Email-jryu1521%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jungwoo-ryu-6375a6211">
-    <img src="https://img.shields.io/badge/LinkedIn-Jungwoo%20Ryu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://jungwoo-ryu.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  </a>
-</p>
+I build AI-powered applications and scalable backend systems that make information more accessible, workflows more efficient, and software more intelligent.
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jryu1521@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jungwoo-ryu-6375a6211)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://jungwoo-ryu.netlify.app/)
 
 </div>
 
@@ -26,132 +19,185 @@
 
 ## About Me
 
-- Computer Science student at **University of Wisconsin–Madison** graduating in **May 2026**
-- Interested in **AX / AI Engineering**, **LLM applications**, **RAG pipelines**, and **backend systems**
-- Experienced in building practical software across **AI systems**, **web platforms**, and **enterprise applications**
-- Passionate about creating products that improve efficiency, automate workflows, and deliver measurable value
+I'm a software engineer passionate about **AI Engineering, LLM applications, and backend development**.
+
+My experience spans AI-powered knowledge retrieval, enterprise software development, backend APIs, and mobile/web applications.
+
+- **AI Engineering:** Retrieval-Augmented Generation (RAG), LLM integration, and vector databases
+- **Backend Development:** Spring Boot, FastAPI, REST APIs, and relational databases
+- **Software Engineering:** Enterprise applications, full-stack development, and system modernization
+- **Product Development:** Building practical solutions that solve real-world problems
+
+I enjoy bridging AI technologies with reliable software engineering to create useful, production-oriented applications.
 
 ---
 
-## Experience Highlights
+## Experience
 
-### **PBS Wisconsin** — Artificial Intelligence Engineer  
-*Jan 2026 – Present | Madison, WI (Remote)*  
-- Built a **Slack-based internal AI chatbot**
-- Developed a **RAG pipeline** using Airtable data ingestion, chunking, and synchronization workflows
-- Stored and served knowledge through **ChromaDB** for reliable internal retrieval
+### PBS Wisconsin — Artificial Intelligence Engineer
+*Jan 2026 – May 2026 | Madison, WI · Remote*
 
-### **LG Innotek** — Software Engineer Intern  
-*Jul 2025 – Aug 2025 | Seoul, South Korea*  
-- Implemented **BLE protocol fuzzing** to strengthen cybersecurity testing
-- Analyzed vulnerabilities and supported resilience testing for embedded communication systems
+- Developed a **Slack-integrated AI chatbot** for internal knowledge retrieval.
+- Built a **Retrieval-Augmented Generation (RAG) pipeline** using Airtable data ingestion, chunking, and synchronization.
+- Implemented semantic search and vector-based retrieval using **ChromaDB**.
+- Integrated LLM-powered responses to improve internal information accessibility.
 
-### **Fasoo** — Software Engineer Intern  
-*Jun 2025 | Seoul, South Korea*  
-- Improved project management system code quality and performance
-- Developed project evaluation-related backend functionality
+**Tech:** `Python` `RAG` `ChromaDB` `Ollama` `Docker` `Slack API`
 
-### **Samsung Life Insurance** — Software Engineer  
-*Jun 2024 – Mar 2025 | Seoul, South Korea*  
-- Migrated legacy admin pages from **JSP-based SSR** to a **Vue.js SPA**
-- Built and improved backend APIs with **Spring Framework**
-- Worked on enterprise internal systems with a focus on maintainability and performance
+### LikeLion Wisconsin — Project Manager
+*Sep 2025 – 2026 | Madison, WI*
+
+- Led the development of a student-focused sublease discovery platform.
+- Coordinated development planning and cross-functional collaboration.
+- Contributed to backend and mobile application development.
+
+**Tech:** `FastAPI` `React Native` `TypeScript` `Supabase`
+
+### LG Innotek — Software Engineer Intern
+*Jul 2025 – Aug 2025 | Seoul, South Korea*
+
+- Implemented **Bluetooth Low Energy (BLE) protocol fuzzing** for cybersecurity testing.
+- Analyzed potential vulnerabilities in embedded communication systems.
+- Supported security validation and protocol robustness testing.
+
+**Focus:** `BLE` `Cybersecurity` `Protocol Fuzzing`
+
+### Fasoo — Software Engineer Intern
+*Jun 2025 – Jul 2025 | Seoul, South Korea*
+
+- Developed backend features for enterprise project management software.
+- Improved project evaluation functionality and code maintainability.
+- Contributed to internal application optimization.
+
+### Samsung Life Insurance — Software Engineer
+*Jun 2024 – Mar 2025 | Seoul, South Korea*
+
+- Modernized legacy enterprise admin interfaces by migrating **JSP-based applications to Vue.js**.
+- Developed and maintained backend APIs using the **Spring Framework**.
+- Improved application maintainability and supported internal business workflows.
+
+**Tech:** `Java` `Spring Boot` `Vue.js` `OracleDB`
 
 ---
 
 ## Featured Projects
 
-### **Badger Market**  
-A second-hand marketplace built for **UW–Madison students**.
+### 01. PBS Wisconsin — AI Knowledge Assistant
 
-**Why I built it**
-- Help students buy and sell used items safely within a trusted campus-only network
+**RAG-powered organizational knowledge retrieval**
 
-**Key features**
-- Post listings with images, pricing, and descriptions
-- Student-focused marketplace model for safer in-person exchanges
-- Community-oriented resale experience tailored to campus life
+An internal AI assistant designed to make organizational information accessible through natural-language conversations.
 
-**Tech**
-`Firebase` `Cloud Firestore` `Mobile App Development`
+**Highlights**
+- Airtable data ingestion and synchronization
+- Document chunking and retrieval pipelines
+- Semantic search with ChromaDB
+- LLM-powered question answering
+- Slack-based user interface
 
----
+**Stack:** `Python` `RAG` `ChromaDB` `Ollama` `Slack API`
 
-### **My Class Planner**  
-A web application that generates **all possible conflict-free schedules** for university students.
+### 02. subadger (Swipe Lease)
 
-**What it does**
-- Lets users add courses and available sections
-- Automatically generates valid schedule combinations
-- Helps students quickly switch to backup plans during registration
+**A student-focused sublease discovery platform**
 
-**Key features**
-- Conflict-free schedule generation
-- Faster planning during high-pressure enrollment periods
-- Board/comment features for communication
-- AI chat support for usability assistance
+A mobile-first application designed to simplify student housing discovery.
 
-**Tech**
-`Java` `Spring Boot` `MariaDB` `Bootstrap` `Thymeleaf` `MyBatis`
+**Highlights**
+- Swipe-based rental listing discovery
+- Mobile-friendly browsing experience
+- User profiles and listing interactions
+- Backend API and database integration
+
+**Stack:** `FastAPI` `React Native` `TypeScript` `Supabase`
+
+### 03. Badger Market
+
+**A campus marketplace for UW–Madison students**
+
+A student-focused second-hand marketplace designed to facilitate convenient and trusted transactions within the university community.
+
+**Highlights**
+- Product listings with images and descriptions
+- Student-focused marketplace experience
+- Firebase-backed data management
+- Mobile application development
+
+**Stack:** `Flutter` `Firebase` `Cloud Firestore`
+
+### 04. My Class Planner
+
+**Automated university course schedule generation**
+
+A web application that generates conflict-free course schedule combinations to simplify university course registration.
+
+**Highlights**
+- Automatic schedule conflict detection
+- Generation of valid course combinations
+- Backup schedule planning
+- Community discussion features
+- AI-assisted user support
+
+**Stack:** `Java` `Spring Boot` `MariaDB` `MyBatis` `Thymeleaf`
 
 ---
 
 ## Tech Stack
 
 ### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-</p>
 
-### Backend / AI / Infra
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-222222?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLM_Apps-412991?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Vector_Retrieval-0F766E?style=flat-square"/>
-</p>
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square)
 
-### Database / Tools
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/>
-</p>
+### AI / LLM Engineering
 
----
+![RAG](https://img.shields.io/badge/RAG-222222?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM_Applications-412991?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector_Search-0F766E?style=flat-square)
 
-## Interests
+### Frameworks / Backend
 
-- AX / AI Engineering  
-- LLM Applications  
-- Retrieval-Augmented Generation (RAG)  
-- Backend Development  
-- Workflow Automation  
-- Product Intelligence  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### Database / Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-## Contact
+## Areas of Interest
 
-- **Email:** [jryu1521@gmail.com](mailto:jryu1521@gmail.com)
-- **LinkedIn:** [linkedin.com/in/jungwoo-ryu-6375a6211](https://www.linkedin.com/in/jungwoo-ryu-6375a6211)
-- **Portfolio:** [Notion Portfolio](https://www.notion.so/Portfolio-13200f1f8ff7455c9913715ef4e784de)
+- AI Engineering & LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI & Intelligent Systems
+- Backend Architecture & API Development
+- Enterprise Software Engineering
+- Workflow Automation & Developer Productivity
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile 👋
+### Let's Connect
 
-I’m always interested in building practical AI systems, scalable backend services, and products that create real user value.
+I'm always interested in collaborating on AI applications, intelligent systems, and software products that solve meaningful problems.
+
+**[Email](mailto:jryu1521@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jungwoo-ryu-6375a6211) · [Portfolio](https://jungwoo-ryu.netlify.app/)**
+
+*Building practical AI systems backed by solid software engineering.*
 
 </div>
